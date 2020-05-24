@@ -2,20 +2,20 @@
   console.log('fired!');
 
   // select elements here
-  let theRune = document.querySelectorAll(".Runes"),
-      svgBadge = document.querySelector("#Runes");
+  let runeIcon = document.querySelectorAll(".galleryWindow"),
+      mainImage = document.querySelector("#selectedImage");
 
   // functions go in the middle
-  function logID(){
-    console.log("clicked on graphic:", this.id);
-  }
+  function switchImage(){
+    console.log("rune" + this.id + "clicked");
 
-  function mouseOver(){
-    console.log("I AM BEING MOUSED OVER", this.id);
+    let currentImage = this.dataset.character + ".svg";
+
+    mainImage.src = "images/" + currentImage;
   }
 
   //event handling
-  theRune.forEach(badge => badge.addEventListener('click', logID))
+runeIcon.forEach(galleryWindow => galleryWindow.addEventListener('click', switchImage));
 
 
 })();
