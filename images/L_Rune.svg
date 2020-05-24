@@ -1,0 +1,25 @@
+<svg id="Runes" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <title>L_Rune</title>
+  <g id="L">
+    <path class="cls-1" d="M159,85.14s54,80.5,72.64,140.38"/>
+    <path class="cls-1" d="M217.89,190.16c171.76-242.45,343.53-12.74,343.53-12.74,33.38,40.25,48.11,118.78,48.11,118.78s-284.61,13.74-391.64,30.43"/>
+    <path class="cls-1" d="M252.21,721.25s6.76-337.66,6.81-400"/>
+    <path class="cls-1" d="M641.92,644.68S321.54,647.6,253.5,655.47"/>
+    <path class="cls-1" d="M597.75,368.84c-4.91,119.76-4.93,276.4-4.93,276.4"/>
+    <path class="cls-1" d="M353.31,429.7C423,415,596.13,415,596.13,415"/>
+    <path class="cls-1" d="M373.93,582.84s1.09-77.22,21.65-159.35"/>
+    <line class="cls-1" x1="511.36" y1="547.5" x2="375.86" y2="547.5"/>
+    <line class="cls-1" x1="487.8" y1="466.02" x2="487.8" y2="547.5"/>
+  </g>
+</svg>

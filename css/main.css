@@ -1,0 +1,29 @@
+.hidden
+{
+	display: none;
+}
+
+.galleryWindow img
+{
+	width: 200px;
+	height: 200px;
+}
+
+
+#container
+{
+	width: 1200px;
+	padding: 0 10px 0 10px; /*trbl*/
+	margin: 0 auto; /*centers the container*/
+}
+
+#iconGallery
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content:space-between;
+	width: 100%;
+	border: 1px solid black;
+
+}

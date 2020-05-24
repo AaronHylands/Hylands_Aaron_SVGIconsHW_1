@@ -1,0 +1,22 @@
+<svg id="Runes" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <title>C_Rune</title>
+  <g id="C">
+    <path class="cls-1" d="M299.73,538.06s107.56-5.56,154.85-18.54"/>
+    <path class="cls-1" d="M249.66,358.18S338,432.32,388.85,530.62"/>
+    <path class="cls-1" d="M160.64,621.46c66.25-98,86.24-110.5,149.29-203.12"/>
+    <path class="cls-1" d="M437.89,719.8C495,638.7,583.62,501.64,639.1,418.34"/>
+    <path class="cls-1" d="M217.9,541.73s47.49,136.84,267.6,108.61"/>
+    <path class="cls-1" d="M572.66,519S392.32,332,313.5,234.64c0,0,63.66-66.31,124.39-154.64,0,0,38.87,69.66,108.52,158,0,0-56.44,55.59-115.16,119.18"/>
+  </g>
+</svg>
